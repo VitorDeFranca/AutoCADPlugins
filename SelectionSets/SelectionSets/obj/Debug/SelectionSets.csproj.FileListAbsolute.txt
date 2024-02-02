@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\bin\Debug\SelectionSets.dll
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\bin\Debug\SelectionSets.pdb
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\obj\Debug\SelectionSets.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\obj\Debug\SelectionSets.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\obj\Debug\SelectionSets.dll
+C:\Vitor\Projetos\AutoCAD\SelectionSets\SelectionSets\obj\Debug\SelectionSets.pdb

@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\obj\Debug\TitleBlocks.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\obj\Debug\TitleBlocks.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\bin\Debug\TitleBlocks.dll
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\bin\Debug\TitleBlocks.pdb
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\obj\Debug\TitleBlocks.dll
+C:\Vitor\Projetos\AutoCAD\TitleBlocks\TitleBlocks\obj\Debug\TitleBlocks.pdb

@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\bin\Debug\AutoCadTraining.dll
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\bin\Debug\AutoCadTraining.pdb
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\obj\Debug\AutoCadTraining.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\obj\Debug\AutoCadTraining.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\obj\Debug\AutoCadTraining.dll
+C:\Vitor\Projetos\AutoCAD\AutoCadTraining\AutoCadTraining\obj\Debug\AutoCadTraining.pdb

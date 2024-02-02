@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\bin\Debug\ManipulateObjectsExercise.dll
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\bin\Debug\ManipulateObjectsExercise.pdb
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\obj\Debug\ManipulateObjectsExercise.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\obj\Debug\ManipulateObjectsExercise.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\obj\Debug\ManipulateObjectsExercise.dll
+C:\Vitor\Projetos\AutoCAD\ManipulateObjectsExercise\ManipulateObjectsExercise\obj\Debug\ManipulateObjectsExercise.pdb

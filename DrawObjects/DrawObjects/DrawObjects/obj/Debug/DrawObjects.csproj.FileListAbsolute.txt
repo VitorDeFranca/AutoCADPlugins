@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\bin\Debug\DrawObjects.dll
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\bin\Debug\DrawObjects.pdb
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\obj\Debug\DrawObjects.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\obj\Debug\DrawObjects.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\obj\Debug\DrawObjects.dll
+C:\Vitor\Projetos\AutoCAD\DrawObjects\DrawObjects\DrawObjects\obj\Debug\DrawObjects.pdb

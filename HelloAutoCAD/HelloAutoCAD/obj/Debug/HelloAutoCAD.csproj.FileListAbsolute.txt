@@ -1,0 +1,6 @@
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\bin\Debug\HelloAutoCAD.dll
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\bin\Debug\HelloAutoCAD.pdb
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\obj\Debug\HelloAutoCAD.csproj.AssemblyReference.cache
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\obj\Debug\HelloAutoCAD.csproj.CoreCompileInputs.cache
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\obj\Debug\HelloAutoCAD.dll
+C:\Backup\Projetos\AutoCAD\HelloAutoCAD\HelloAutoCAD\obj\Debug\HelloAutoCAD.pdb

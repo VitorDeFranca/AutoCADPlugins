@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\bin\Debug\UserInteraction.dll
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\bin\Debug\UserInteraction.pdb
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\obj\Debug\UserInteraction.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\obj\Debug\UserInteraction.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\obj\Debug\UserInteraction.dll
+C:\Vitor\Projetos\AutoCAD\UserInteraction\UserInteraction\obj\Debug\UserInteraction.pdb

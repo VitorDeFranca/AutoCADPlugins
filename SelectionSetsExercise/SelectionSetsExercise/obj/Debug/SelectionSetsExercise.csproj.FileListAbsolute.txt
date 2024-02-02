@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\bin\Debug\SelectionSetsExercise.dll
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\bin\Debug\SelectionSetsExercise.pdb
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\obj\Debug\SelectionSetsExercise.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\obj\Debug\SelectionSetsExercise.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\obj\Debug\SelectionSetsExercise.dll
+C:\Vitor\Projetos\AutoCAD\SelectionSetsExercise\SelectionSetsExercise\obj\Debug\SelectionSetsExercise.pdb

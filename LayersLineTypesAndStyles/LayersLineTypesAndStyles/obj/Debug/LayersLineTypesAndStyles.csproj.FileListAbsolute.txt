@@ -1,0 +1,6 @@
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\bin\Debug\LayersLineTypesAndStyles.dll
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\bin\Debug\LayersLineTypesAndStyles.pdb
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\obj\Debug\LayersLineTypesAndStyles.csproj.AssemblyReference.cache
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\obj\Debug\LayersLineTypesAndStyles.csproj.CoreCompileInputs.cache
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\obj\Debug\LayersLineTypesAndStyles.dll
+C:\Vitor\Projetos\AutoCAD\LayersLineTypesAndStyles\LayersLineTypesAndStyles\obj\Debug\LayersLineTypesAndStyles.pdb
